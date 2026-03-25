@@ -1,5 +1,5 @@
 body {
-  background-color: #a0a29b;
+  background-color: #c8c8c8;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
 overflow: show;}
@@ -24,7 +24,7 @@ font-size: large;}
     transform: translate(-50%, -50%);
     text-align: center;
     text-wrap: nowrap;
-    background-color: #a0a29b;
+    background-color: #c8c8c8;
     z-index: 3;
     animation: typing 3.5s steps(40, end);
 }
@@ -57,7 +57,7 @@ input {
   perspective: 1000px;
   width: 30vw;
   height: 30vh;
-  background:#7a7a7a;
+  background:#c8c8c8;
   position: relative;
 border: none;
 z-index: 3;}
